@@ -37,7 +37,3 @@
     </a>
   </div>
 </p>
-
-<p align="center" >
-    <img loop=infinite src="icons/github-user-contribution.svg" alt="svg" />
-</p>
