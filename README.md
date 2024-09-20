@@ -1,7 +1,7 @@
 <p align="center" >
     <img width="70%" loop=infinite src="https://github.com/centralvii/404/blob/main/1582539616_Fa1N.gif?raw=true" alt="img" />
 </p>
-<h2 align="center">🔥 Tech. Stack 🔥</h2>
+<h2 align="center">Tech. Stack</h2>
 
 <div align="center">
   <code><img title="HTML" height="50" src="icons/icons8-html-50.png"></code>
@@ -17,7 +17,7 @@
   <code><img title="PYCHARM" height="50" src="icons/icons8-pycharm-48.png"></code>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats</h2>
 <p align=center>
   <div align=center>
     <a href="https://github.com/centralvii/github-readme-stats" title="Go to Source">
