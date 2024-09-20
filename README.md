@@ -1,5 +1,9 @@
 <img width="70%" align="right" loop=infinite src="https://github.com/centralvii/404/blob/main/1582539616_Fa1N.gif?raw=true" alt="img" />
 
+<div>
+  
+</div>
+
 <h2 align="center">Tech. Stack</h2>
 
 <div align="center">
