@@ -16,6 +16,7 @@
   <code><img title="PY" height="50" src="icons/icons8-python-50.png"></code>
   <code><img title="XML" height="50" src="icons/icons8-xml-50.png"></code>
   <code><img title="SQL" height="50" src="icons/icons8-sql-50.png"></code>
+  <code><img title="postgresql" height="50" src="icons/icons8-postgresql-50.png"></code>
   <code><img title="GIT" height="50" src="icons/icons8-git-50.png"></code>
   <code><img title="REACT" height="50" src="icons/icons8-react-native-50.png"></code>
   <code><img title="WEBSTORM" height="48" src="icons/icons8-webstorm-an-integrated-development-environment-for-javascript-48.png"></code>
