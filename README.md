@@ -3,8 +3,8 @@
 </p>
 <h2 align="center">🔥 Tech. Stack 🔥</h2>
 
-<div align="center" style="background: white">
-  <code><img style="fill: white" title="HTML" height="50" src="icons/icons8-html-50.png"></code>
+<div align="center">
+  <code><img title="HTML" height="50" src="icons/icons8-html-50.png"></code>
   <code><img title="HTML" height="50" src="icons/icons8-css3-50.png"></code>
   <code><img title="JS" height="50" src="icons/icons8-javascript-50.png"></code>
   <code><img title="TS" height="50" src="icons/icons8-typescript-50.png"></code>
