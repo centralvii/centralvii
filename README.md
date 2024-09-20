@@ -18,7 +18,7 @@
   <code><img title="SQL" height="50" src="icons/icons8-sql-50.png"></code>
   <code><img title="GIT" height="50" src="icons/icons8-git-50.png"></code>
   <code><img title="REACT" height="50" src="icons/icons8-react-native-50.png"></code>
-  <code><img title="WEBSTORM" height="50" src="icons/icons8-webstorm-4.png"></code>
+  <code><img title="WEBSTORM" height="50" src="icons/icons8-webstorm-an-integrated-development-environment-for-javascript-48.png"></code>
   <code><img title="PYCHARM" height="50" src="icons/icons8-pycharm-48.png"></code>
 </div>
 
