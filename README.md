@@ -10,7 +10,7 @@
 
 <div align="center">
   <code><img title="HTML" height="50" src="icons/icons8-html-50.png"></code>
-  <code><img title="HTML" height="50" src="icons/icons8-css3-50.png"></code>
+  <code><img title="HTML" height="50" src="icons/icons8-css-50.png"></code>
   <code><img title="JS" height="50" src="icons/icons8-javascript-50.png"></code>
   <code><img title="TS" height="50" src="icons/icons8-typescript-50.png"></code>
   <code><img title="PY" height="50" src="icons/icons8-python-50.png"></code>
