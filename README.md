@@ -28,7 +28,7 @@
 <p align=center>
   <div align=center>
       <a href="https://github.com/centralvii/github-readme-stats" title="Go to Source">
-      <img align="right" width=470 src="https://github-readme-stats.vercel.app/api?username=centralvii&show_icons=true&bg_color=000000&icon_color=ffffff&theme=dark&border_color=61dafb&hide_border=true" />
+      <img align="right" width="470" src="https://github-readme-stats.vercel.app/api?username=centralvii&show_icons=true&bg_color=000000&icon_color=ffffff&theme=dark&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <div align=center>
